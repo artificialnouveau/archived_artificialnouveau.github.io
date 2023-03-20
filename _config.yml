@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Artifical Nouveau"
 title_separator          : "-"
-name                     : &name "Artifial Nouveau"
+name                     : &name "Artifical Nouveau"
 description              : &description "Data Scientist & Science Communicator & Artist"
 url                      : https://artificialnouveau.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
