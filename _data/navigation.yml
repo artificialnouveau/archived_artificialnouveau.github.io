@@ -2,9 +2,12 @@
 main:
   - title: "CV"
     url: /cv/
+  
+  - title: "Publications"
+    url: /publications/
     
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Events"
+  - title: "Upcoming Events"
     url: /events/  
