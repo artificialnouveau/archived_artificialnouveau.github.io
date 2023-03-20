@@ -117,10 +117,23 @@ Publications
   * Joosten P. Supermens [Internet]. First Edit. Bot Uitgevers; Available from:
   https://www.peterjoosten.net/supermens/
 
+
 * Journal Publications (Published only)
-  * ZhuParris Ahnjili, Kruizinga Matthijs D., Gent Max van, Dessing Eva, Exadaktylos Vasileios, Doll Robert Jan, Stuurman Frederik E., Driessen Gertjan A., Cohen Adam F. Development and Technical Validation of a Smartphone-Based Cough Detection Algorithm Frontiers in Pediatrics 2022
-  * ZhuParris Ahnjili, Kruizinga Matthijs D., Gent Max van, Dessing Eva, Exadaktylos Vasileios, DollRobert Jan, Stuurman Frederik E., Driessen Gertjan A., Cohen Adam F. Development and Technical Validation of a Smartphone-Based Cry Detection Algorithm Frontiers in Pediatrics 2021
-  * ZhuParris A, Kruizinga MD, Gent M van, Dessing E, Exadaktylos V, Doll RJ, et al. Development and Technical Validation of a Smartphone-Based Cry Detection Algorithm. Front Pediatr [Internet]. 2021 Apr 13 [cited 2021 Aug 9];9:262. Available from: https://www.frontiersin.org/article/10.338 /fped.2021.651356
+[1]	S. Prins, A. Zhuparris, and G. J. Groeneveld, “Usefulness of Plasma Amyloid as a Prescreener for the Earliest Alzheimer Pathological Changes Depends on the Study Population,” Ann Neurol, vol. 87, no. 1, pp. 154–155, 2020.
+[2]	A. Hupli, M. Berning, A. Zhuparris, and J. Fadiman, “Descriptive assemblage of psychedelic microdosing: Netnographic study of Youtube? videos and on-going research projects,” Perform Enhanc Health, vol. 6, no. 3–4, pp. 129–138, 2019.
+[3]	S. Prins, A. Zhuparris, E. P. Hart, R.-J. Doll, and G. J. Groeneveld, “A cross-sectional study in healthy elderly subjects aimed at development of an algorithm to increase identification of Alzheimer pathology for the purpose of clinical trial participation,” Alzheimers Res Ther, vol. 13, no. 1, 2021.
+[4]	E. L. Davies, C. Puljevic, D. Connolly, A. Zhuparris, J. A. Ferris, and A. R. Winstock, “The world’s favorite drug: What we have learned about alcohol from over 500,000 respondents to the Global Drug Survey,” in The Handbook of Alcohol Use, Elsevier, 2021, pp. 17–47. doi: 10.1016/b978-0-12-816720-5.00022-0.
+[5]	M. D. Kruizinga et al., “Postdischarge Recovery after Acute Pediatric Lung Disease Can Be Quantified with Digital Biomarkers,” Respiration, vol. 100, no. 10, pp. 979–988, Oct. 2021, doi: 10.1159/000516328.
+[6]	E. L. Davies et al., “Impacts of changes in alcohol consumption patterns during the first 2020 COVID-19 restrictions for people with and without mental health and neurodevelopmental conditions: A cross sectional study in 13 countries,” International Journal of Drug Policy, vol. 101, p. 103563, Mar. 2022, doi: 10.1016/j.drugpo.2021.103563.
+[7]	A. ZhuParris et al., “Development and technical validation of a smartphone-based pediatric cough detection algorithm,” Pediatr Pulmonol, 2022.
+[8]	A. ZhuParris et al., “Development and Technical Validation of a Smartphone-Based Cry Detection Algorithm,” Front Pediatr, vol. 9, p. 262, Apr. 2021, doi: 10.3389/fped.2021.651356.
+[9]	A. Zhuparris et al., “Smartphone and Wearable Sensors for the Estimation of Facioscapulohumeral Muscular Dystrophy Disease Severity: Cross-sectional Study,” JMIR Form Res, vol. 7, p. e41178, Mar. 2023, doi: 10.2196/41178.
+[10]	G. Maleki et al., “Objective Monitoring of Facioscapulohumeral Dystrophy During Clinical Trials Using a Smartphone App and Wearables: Observational Study,” JMIR Form Res, vol. 6, pp. 1–13, 2022, doi: 10.2196/31775.
+[11]	M. D. Kruizinga et al., “Towards remote monitoring in pediatric care and clinical trials?Tolerability, repeatability and reference values of candidate digital endpoints derived from physical activity, heart rate and sleep in healthy children,” PLoS One, vol. 16, no. 1 January, 2021.
+[12]	M. D. Kruizinga et al., “Technical validity and usability of a novel smartphone-connected spirometry device for pediatric patients with asthma and cystic fibrosis,” Pediatr Pulmonol, vol. 55, no. 9, pp. 2463–2470, 2020.
+[13]	O. Sverdlov et al., “A Study of Novel Exploratory Tools, Digital Technologies, and Central Nervous System Biomarkers to Characterize Unipolar Depression,” Front Psychiatry, vol. 12, 2021.
+[14]	D. Abrams et al., “List of contributors,” in The Handbook of Alcohol Use, Elsevier, 2021, pp. xv–xviii. doi: 10.1016/b978-0-12-816720-5.00033-5.
+ 
 
 * Online Publications
   * This AI model predicts future instances of police brutality [Internet]. [cited 2021 Dec 22]. Available from: https://www.fastcompany.com/90689806/ai-police-brutality-predictions-future-wake
@@ -134,7 +147,7 @@ Talks
 Teaching
 ======
 
-* iii: Introductio to Generative Art
+* iii: Introduction to Generative Art
   * In this workshop, participants learned about how to use and customize Generative Adversarial Networks (GANs) for text-to-text generation, text-to-image generation, and image-to-image generation. No coding experience was necessary, as I provided Python code to customize the GANs.
 
 
