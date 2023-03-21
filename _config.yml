@@ -187,6 +187,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  data_science_projects:
+    output: true
+    permalink: /:collection/:path/
+  art_projects:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -231,6 +237,24 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _data_science_projects
+  - scope:
+      path: ""
+      type: data_science_projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _art_projects
+  - scope:
+      path: ""
+      type: art_projects
     values:
       layout: single
       author_profile: true
