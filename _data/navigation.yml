@@ -6,8 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Art Projects"
+    url: /art/
+    
+  - title: "Data Science Projects"
+    url: /datasci/
 
   - title: "Upcoming Events"
     url: /events/  
