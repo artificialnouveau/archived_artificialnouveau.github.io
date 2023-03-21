@@ -6,11 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Art Projects"
-    url: /art/
-    
   - title: "Data Science Projects"
     url: /datasci/
+    
+  - title: "Art Projects"
+    url: /art/
 
   - title: "Upcoming Events"
     url: /events/  
