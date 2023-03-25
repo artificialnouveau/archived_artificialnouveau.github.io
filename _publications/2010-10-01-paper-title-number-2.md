@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Development and technical validation of a smartphone‐based pediatric cough detection algorithm"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/cough
+excerpt: 'The aim of this study was to develop a smartphone‐based algorithm that objectively and automatically counts cough sounds of children.'
+date: 2021-Dec-13
+venue: 'Pediatric Pulmonology'
+paperurl: 'http://academicpages.github.io/files/cough.pdf'
+citation: '<div class="csl-entry">ZhuParris, A., Kruizinga, M. D., Gent, M. van, Dessing, E., Exadaktylos, V., Doll, R. J., Stuurman, F. E., Driessen, G. A., &#38; Cohen, A. F. (2022). Development and technical validation of a smartphone-based pediatric cough detection algorithm. <i>Pediatric Pulmonology</i>.</div>'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+The aim of this study was to develop a smartphone‐based algorithm that objectively and automatically counts cough sounds of children.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://academicpages.github.io/files/cough.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: <div class="csl-entry">ZhuParris, A., Kruizinga, M. D., Gent, M. van, Dessing, E., Exadaktylos, V., Doll, R. J., Stuurman, F. E., Driessen, G. A., &#38; Cohen, A. F. (2022). Development and technical validation of a smartphone-based pediatric cough detection algorithm. <i>Pediatric Pulmonology</i>.</div>
