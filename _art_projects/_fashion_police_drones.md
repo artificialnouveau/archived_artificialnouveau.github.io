@@ -1,7 +1,7 @@
 ---
 title: "Fashion Police Drones (WIP)"
 excerpt: "When does automated policing go too far?"
-collection: art_projects
+collection: art
 permalink: /art/fpd
 excerpt: 'When does automated policing go too far?'
 date: 2022
