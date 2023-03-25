@@ -10,6 +10,7 @@ author_profile: true
 
 A Blended Voice: Shibboleth (WIP)
 ======
+<br/><img src='/images/blending_voices.png'>
 In collaboration with Effi and Amir (of By The Throat), we are currently exploring how to blend the voices of these two artists as a single voice. We used coqui's tacotron and tortoise-tts to generate the voices. For more info, see: https://effiandamir.net/index.php?id=538 .
 
 
