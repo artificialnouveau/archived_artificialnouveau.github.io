@@ -3,14 +3,18 @@ main:
   - title: "CV"
     url: /cv/
   
-  - title: "Publications"
+  - title: "Press & Publications"
     url: /publications/
     
-  - title: "Data Science Projects"
-    url: /datasci/
+  - title: "Teaching"
+    url: /teaching/ 
     
   - title: "Art Projects"
     url: /art/
 
+  - title: "Data Science Projects"
+    url: /datasci/
+    
   - title: "Upcoming Events"
     url: /events/  
+    
