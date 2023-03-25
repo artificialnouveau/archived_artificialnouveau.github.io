@@ -2,7 +2,7 @@
 title: "Future Wake"
 permalink: /art/futurewake
 excerpt: "Can two voices form a single voice?<br/><img src='/images/future_wake.png'>"
-collection: art_projects
+collection: art
 date: 2021
 url: www.futurewake.com
 ---
