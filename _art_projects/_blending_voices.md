@@ -1,6 +1,6 @@
 ---
 title: "A Blended Voice: Shibboleth (WIP)"
-collection: art_projects
+collection: art
 permalink: /art/blendvoice
 excerpt: "In collaboration with Effi and Amir (of By The Throat), we are currently exploring how to blend the voices of these two artists as a single voice.<br/><img src='/images/blending_voices.png'>"
 date: 2022
