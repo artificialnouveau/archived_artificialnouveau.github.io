@@ -3,8 +3,8 @@ title: "Future Wake"
 permalink: /art/futurewake
 excerpt: "Can two voices form a single voice?<br/><img src='/images/future_wake.png'>"
 collection: art
-date: 2021
-url: www.futurewake.com
+date: 2021-12-01
+url: 'www.futurewake.com'
 ---
 
 [Future Wake](www.futurewake.com): the AI art project that predicts police violence. 
