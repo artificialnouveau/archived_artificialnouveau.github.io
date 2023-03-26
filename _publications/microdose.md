@@ -1,5 +1,5 @@
 ---
-title: "Descriptive assemblage of psychedelic microdosing: Netnographic study of Youtube™ videos and on-going research projects"
+title: "[Publication] Descriptive assemblage of psychedelic microdosing: Netnographic study of Youtube™ videos and on-going research projects"
 collection: publications
 permalink: /publication/microdose
 excerpt: 'In this netnographic study, we explore psychedelic microdosing by focusing on Youtube™ and listing current research projects as a descriptive assemblage. We used the Youtube Data Tool (YDT) for data extraction from the YouTube™ platform. We selected videos that specifically focused on microdosing with a psychoactive substance and descriptively analysed the ecology of practices of the six most viewed videos focusing on definitions, dosages per substance and claimed effects.'
