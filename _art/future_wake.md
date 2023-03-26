@@ -1,7 +1,7 @@
 ---
 title: "Future Wake"
 permalink: /art/futurewake
-excerpt: "Can two voices form a single voice?<br/><img src='/images/future_wake.png'>"
+excerpt: "An AI art project that predicts police violence<br/><img src='/images/future_wake.png'>"
 collection: art
 date: 2021-12-01
 url: 'www.futurewake.com'
