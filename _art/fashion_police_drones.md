@@ -1,10 +1,9 @@
 ---
 title: "Fashion Police Drones (WIP)"
-excerpt: "When does automated policing go too far?"
 collection: art
-permalink: /art/fpd
-date: 2022-06-01
-
+permalink: /art/fashion
+excerpt: "When does automated policing go too far?"
+date: 2022-Aug-01
 ---
 
 When does automated policing go too far? To explore the boundaries, I explored how the fashion police would deploy their automated surveillance algorithms on drones to identify fashion crimes. Once the camera on the (Trello) drone has identified the fashion crime, it will follow that target continuously.
