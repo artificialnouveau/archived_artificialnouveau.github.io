@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Art Projects and Residencies"
+title: "AI Art Projects and Residencies"
 permalink: /art/
 author_profile: true
 ---
