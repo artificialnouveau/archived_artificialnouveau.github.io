@@ -3,15 +3,12 @@ permalink: /
 author_profile: true
 redirect_from: 
   - /home/
-  - /home.html
 ---
 
 
 
 Hi there! What brought you here?
 ========
-
-
 I'm a data scientist, science communicator, and artist. I'm always happy to collaborate on niche data science and art projects, and to give workshops and talks on creative coding and algorithmic violence. On my website, you can find links to previous and upcoming projects, workshops, and talks. If you would like to collaborate on a project or invite me to an event, feel free to contact me!
 
 
