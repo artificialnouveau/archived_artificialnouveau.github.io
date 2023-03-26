@@ -1,5 +1,5 @@
 ---
-title: "A cross-sectional study in healthy elderly subjects aimed at development of an algorithm to increase identification of Alzheimer pathology for the purpose of clinical trial participation"
+title: "[Publication] A cross-sectional study in healthy elderly subjects aimed at development of an algorithm to increase identification of Alzheimer pathology for the purpose of clinical trial participation"
 collection: publications
 permalink: /publication/alzheimer
 excerpt: 'In the current study, we aimed to develop an algorithm based on biomarkers obtained through non- or minimally invasive procedures to identify healthy elderly subjects who have an increased risk of abnormal cerebrospinal fluid (CSF) amyloid beta42 (Aβ) levels consistent with the presence of Alzheimer’s disease (AD) pathology. The use of the algorithm may help to identify subjects with preclinical AD who are eligible for potential participation in trials with disease modifying compounds being developed for AD. Due to this pre-selection, fewer lumbar punctures will be needed, decreasing overall burden for study subjects and costs.'
