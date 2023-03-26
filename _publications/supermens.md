@@ -1,5 +1,5 @@
 ---
-title: "Supermens Chapter: Ahnjili op Tinder"
+title: "[Book Chapter] Supermens Chapter: Ahnjili op Tinder"
 collection: publications
 permalink: /publication/tinder
 excerpt: 'De cyclus van vrouwen meten in relatie tot Tinder'
