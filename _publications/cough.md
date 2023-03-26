@@ -1,5 +1,5 @@
 ---
-title: "Development and technical validation of a smartphone‐based pediatric cough detection algorithm"
+title: "[Publication] Development and technical validation of a smartphone‐based pediatric cough detection algorithm"
 collection: publications
 permalink: /publication/cough
 excerpt: 'The aim of this study was to develop a smartphone‐based algorithm that objectively and automatically counts cough sounds of children.'
