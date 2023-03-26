@@ -254,7 +254,7 @@ defaults:
   # _art_projects
   - scope:
       path: ""
-      type: art_projects
+      type: art
     values:
       layout: single
       author_profile: true
