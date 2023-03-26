@@ -1,5 +1,5 @@
 ---
-title: "Future Wake"
+title: "Mozilla Creative Media Award: Future Wake"
 permalink: /art/futurewake
 excerpt: "An AI art project that predicts police violence<br/><img src='/images/future_wake.png'>"
 collection: art
