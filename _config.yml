@@ -190,7 +190,7 @@ collections:
   data_science_projects:
     output: true
     permalink: /:collection/:path/
-  art_projects:
+  art:
     output: true
     permalink: /:collection/:path/
 
