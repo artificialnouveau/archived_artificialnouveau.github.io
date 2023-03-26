@@ -187,7 +187,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  data_science_projects:
+  datasci:
     output: true
     permalink: /:collection/:path/
   art:
@@ -242,10 +242,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _data_science_projects
+  # _datasci
   - scope:
       path: ""
-      type: data_science_projects
+      type: datasci
     values:
       layout: single
       author_profile: true
