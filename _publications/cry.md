@@ -1,5 +1,5 @@
 ---
-title: "Development and Technical Validation of a Smartphone-Based Cry Detection Algorithm"
+title: "[Publication] Development and Technical Validation of a Smartphone-Based Cry Detection Algorithm"
 collection: publications
 permalink: /publication/cry
 excerpt: 'The aim of this study was to develop and technically validate a smartphone-based algorithm able to automatically detect crying.'
