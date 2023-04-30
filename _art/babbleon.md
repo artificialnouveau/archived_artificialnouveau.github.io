@@ -3,7 +3,7 @@ title: "BabbleOn"
 collection: art
 permalink: /art/babbleon
 excerpt: "How can we sort trees using sorting trees?"
-date: 2022-Apr-01
+date: 2023-May-01
 ---
 “Babble tapes” are digital audio files that are played in the background of a conversation in order to defeat audio surveillance. They often contain sounds of other humans speaking unintelligibly. Babble noise is considered to be one of the best noises for masking speech as the masking noises and the conversations of interest share the same acoustic properties. However today, with advanced multi-speaker identification algorithms, it may be easier than ever to extract conversations from the speakers of interest from the babble noise.
 
