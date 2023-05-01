@@ -10,10 +10,10 @@ date: 2023-May-01
 BabbleOn is a small web-based interactive installation that enables audience members to create their own babble tapes. In my proposed installation, audience members are invited to read 2-3 sentences into a microphone, their audio would then be sliced and remixed into personalized babble tapes containing the same audio properties of their own voices. Audience members can then download their own babble tapes in case they need to disguise their conversations from future audio surveillance.
 
 Example of a personalized babble file:
-https://user-images.githubusercontent.com/46301511/235359997-cbb6f3c5-bc9a-4c26-8f53-b22be00055a4.mov
+[Link to audio file](https://user-images.githubusercontent.com/46301511/235359997-cbb6f3c5-bc9a-4c26-8f53-b22be00055a4.mov)
 
 Code for creating the babble tapes:
-https://github.com/artificialnouveau/babbleon
+[Git Repo](https://github.com/artificialnouveau/babbleon)
 
 Interactive Google Colab notebook that enables you to create the babble tape in the browser:
-[https://github.com/artificialnouveau/babbleon](https://colab.research.google.com/gist/artificialnouveau/1ba122096b0c79e650598c37e13b3c33/babbleonapp.ipynb?authuser=2)
+[Colab Notebook](https://colab.research.google.com/gist/artificialnouveau/1ba122096b0c79e650598c37e13b3c33/babbleonapp.ipynb?authuser=2)
