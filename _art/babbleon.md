@@ -12,3 +12,8 @@ BabbleOn is a small web-based interactive installation that enables audience mem
 Example of a personalized babble file:
 https://user-images.githubusercontent.com/46301511/235359997-cbb6f3c5-bc9a-4c26-8f53-b22be00055a4.mov
 
+Code for creating the babble tapes:
+https://github.com/artificialnouveau/babbleon
+
+Interactive Google Colab notebook that enables you to create the babble tape in the browser:
+[https://github.com/artificialnouveau/babbleon](https://colab.research.google.com/gist/artificialnouveau/1ba122096b0c79e650598c37e13b3c33/babbleonapp.ipynb?authuser=2)
