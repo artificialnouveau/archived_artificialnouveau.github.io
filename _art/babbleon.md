@@ -16,4 +16,4 @@ Code for creating the babble tapes:
 [Git Repo](https://github.com/artificialnouveau/babbleon)
 
 Interactive Google Colab notebook that enables you to create the babble tape in the browser:
-[Colab Notebook](https://colab.research.google.com/gist/artificialnouveau/1ba122096b0c79e650598c37e13b3c33/babbleonapp.ipynb?authuser=2)
+[Colab Notebook](https://colab.research.google.com/gist/artificialnouveau/23bb1d8aeb10312c7b65cd8e2da68775/babbleonapp.ipynb)
