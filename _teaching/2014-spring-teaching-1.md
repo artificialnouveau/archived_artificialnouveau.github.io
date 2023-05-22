@@ -8,7 +8,7 @@ date: 2021-10-01
 location: "Utrecht, Netherlands"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course provides an introduction to the fundamentals of computer vision using Python, tailored specifically for photography students. Through practical examples and hands-on projects, students will learn how computer vision techniques can enhance their understanding of images, automate certain tasks, and unleash creative possibilities in the field of photography. No prior programming experience is required, making it accessible for beginners.
 
 Course Description
 ======
