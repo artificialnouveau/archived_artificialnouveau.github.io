@@ -1,5 +1,5 @@
 ---
-title: "Basics to Voice Cloning"
+title: "Introduction to Voice Cloning"
 collection: teaching
 type: "1 day workshop"
 permalink: /teaching/voice-cloning
