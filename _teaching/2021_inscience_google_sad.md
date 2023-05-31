@@ -3,7 +3,7 @@ title: "Hey Google, am I sad?"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/google-sad
-venue: "Inscience Film Fest"
+venue: "Inscience Film Festival"
 date: 2021-11-10
 location: "Nijmegen, Netherlands"
 ---
