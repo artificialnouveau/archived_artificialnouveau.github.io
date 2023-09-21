@@ -1,9 +1,9 @@
 ---
 title: "VOICES"
+collection: art
 permalink: /art/voices
 excerpt: "VOICES, an interactive installation, invites participants to co-create a sound-art composition with their voice.<br/><img src='/images/voicesmain.jpg'>"
-collection: art
-date: 2023-09-01
+date: 2023-Sep-01
 ---
 
 VOICES, an interactive installation, invites participants to co-create a sound-art composition with their voice. Participants are asked to record a secret. In return, they can be visually guided through the processing, analysis, and cloning of their voice recordings by various Voice Technologies (VT) algorithms, and can experience a sound-art composition in which their voice narrates the secrets of others. This immersive experience aims to shed light on the otherwise opaque inner workings of VT.
