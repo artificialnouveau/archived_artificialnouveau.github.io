@@ -13,5 +13,4 @@ This course provides an introduction to the fundamentals of voice analysis using
 Course Description
 ======
 
-Course Description:
-This course provides an introduction to the fundamentals of voice analysis using Python. Through practical examples and hands-on projects, students will learn how signal processing techniques can enhance their understanding of voice and speech. No prior programming experience is required, making it accessible for beginners. A more detailed course description can be provided upon request. 
+A more detailed course description can be provided upon request. 
