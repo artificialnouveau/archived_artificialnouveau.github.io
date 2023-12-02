@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/iii-gen-ai
 venue: "iii"
-date: 2022-10-31
+date: 2023-11-30
 location: "The Hague, Netherlands"
 ---
 
