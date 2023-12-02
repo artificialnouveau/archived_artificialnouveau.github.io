@@ -54,7 +54,7 @@ Previous Workshops (an incomplete list)
 * iii: [Beginners Guide to Generative AI art with Ahnjili ZhuParris](https://instrumentinventors.org/agenda/beginners-guide-to-generative-ai-art-with-ahnjili-zhuparris) (November 25 2023)
 * Piet Zwart Institute: Beginners Guide to Voice Analysis November 20th 2023
 * AKI ArtEZ University of the Arts: More-than-Human Perspectives and Generative Ecosystems: The AI Nature Artist November 8th 2023
-* * IMPAKT Festival: [Deepfakes: Creation and Detection](https://impakt.nl/festival/2023/workshop/deepfakes-creation-and-detection) November 4th 2023 12:00 - 15:00
+* IMPAKT Festival: [Deepfakes: Creation and Detection](https://impakt.nl/festival/2023/workshop/deepfakes-creation-and-detection) November 4th 2023 12:00 - 15:00
 * IMPAKT Festival: [Speed Dating Data Experience](https://impakt.nl/festival/2023/workshop/speed-dating-data-experience) November 3rd 2023 13:45 - 14:45
 
 
